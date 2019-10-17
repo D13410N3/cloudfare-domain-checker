@@ -33,9 +33,10 @@ As a result you'll get JSON-string looking like this:
     },
     ....
 ``` 
-NORMAL is 30 days and more
+
+```NORMAL is 30 days and more
 MINOR is 7-30 days
 MAJOR is 2-7 days
-CRITICAL is < 2 days
+CRITICAL is < 2 days```
 
 Depends on your system locale settings it can or can't work with cyrillic domains
