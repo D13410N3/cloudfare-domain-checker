@@ -12,7 +12,7 @@ It uses "whois" binary, so you need access to your shell using PHP-function shel
 
 As a result you'll get JSON-string looking like this:
 
-[code]
+```
     {
         "domain": "2012-2016.ru",
         "paid_till": "2020-08-02",
@@ -32,7 +32,7 @@ As a result you'll get JSON-string looking like this:
         "status": "NORMAL"
     },
     ....
-[/code]  
+``` 
 NORMAL is 30 days and more
 MINOR is 7-30 days
 MAJOR is 2-7 days
